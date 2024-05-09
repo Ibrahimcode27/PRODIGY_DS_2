@@ -4,8 +4,12 @@ Prodigy Infotech Pvt Ltd Intership on Data Science. I will use R as programming 
 >> Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
 
 # **THE RESULTS**
-[CODE]: PRODIGY_DS_2/ "CODE for R"
+>code
+
+[CODE]: SSCode.png "CODE for R"
 ![IMAGE OF CODE][CODE]
 
-[PLOT]: PRODIGY_DS_2/ "PLOT for R"
+>Plot
+
+[PLOT]: SSPlot.png "PLOT for R"
 ![IMAGE OF PLOT][PLOT]
